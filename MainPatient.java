@@ -22,6 +22,36 @@ public class MainPatient {
         System.out.println();
 
 
+        p.showPatients();
+        System.out.println();
+
+        p.treatPatient();
+        System.out.println();
+        p.showPatients();
+        System.out.println();
+
+
+
+        p.showPatients();
+        System.out.println();
+
+        p.treatPatient();
+        System.out.println();
+        p.showPatients();
+        System.out.println();
+
+
+
+
+        p.showPatients();
+        System.out.println();
+
+        p.treatPatient();
+        System.out.println();
+        p.showPatients();
+        System.out.println();
+
+
 
 //        p.addInCritical("P3");
 //        p.showPatients();
